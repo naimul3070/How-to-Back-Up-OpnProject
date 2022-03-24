@@ -1,11 +1,15 @@
 # How-to-Back-Up-OpnProject
 
-# To Back Uo Open Projeject we need some prerequist environment
-# 1.Need to install OpenProject again 
+# To BackUp Open Project we need some prerequist environment
+
+# 1.Need to install OpenProject again
+
 # Note: The Open Project and postgress versiosn should be same As the Main OpenPrject server.
 
 ## FOR INSTSLL OPENPROJECT CAN FOLLOE MY GIT LINK :  https://github.com/naimul3070/Install-OpenProject-Project-Managmen-Software-local-servert.git
+
 # 2.Install PG-ADMIN
+
 ## FOR INSTSLL PG-ADMIN CAN FOLLOE MY GIT LINK :    https://github.com/naimul3070/Install-PG-Admin.git
 
 ### AFTER INSTALL GET THE SERVER INFORMATION FROM : 
@@ -52,7 +56,3 @@ Rest of All Process is same
 # Skip SSL
 # Install subversion repository support
 # skip STMP
-
-
-
-
