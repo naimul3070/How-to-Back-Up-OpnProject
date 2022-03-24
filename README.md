@@ -6,11 +6,11 @@
 
 # Note: The Open Project and postgress versiosn should be same As the Main OpenPrject server.
 
-## FOR INSTSLL OPENPROJECT CAN FOLLOE MY GIT LINK :  https://github.com/naimul3070/Install-OpenProject-Project-Managmen-Software-local-servert.git
+## FOR INSTALL OPENPROJECT CAN FOLLOE MY GIT LINK :  https://github.com/naimul3070/Install-OpenProject-Project-Managmen-Software-local-servert.git
 
 # 2.Install PG-ADMIN
 
-## FOR INSTSLL PG-ADMIN CAN FOLLOE MY GIT LINK :    https://github.com/naimul3070/Install-PG-Admin.git
+## FOR INSTALL PG-ADMIN CAN FOLLOE MY GIT LINK :    https://github.com/naimul3070/Install-PG-Admin.git
 
 ### AFTER INSTALL GET THE SERVER INFORMATION FROM : 
 
